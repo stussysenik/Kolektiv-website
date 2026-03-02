@@ -1,11 +1,17 @@
-# kolektiv-final
+<div align="center">
 
-Hardest things is to finish the casova osa
+# Kolektiv Website
 
-TODO:
-responsiveness of content
-refactor code
-make footer a component
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-green?style=flat-square)
 
-Missing pigalle basketball court
+</div>
 
+---
+
+## Quick Start
+
+```bash
+git clone https://github.com/stussysenik/Kolektiv-website.git
+cd Kolektiv-website
+```
